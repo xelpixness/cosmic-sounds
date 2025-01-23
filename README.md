@@ -4,7 +4,7 @@
 
 заходите, нажимайте на кнопочки (мышкой или numpad). 
 
-![screen1](./images/screen1.png)
+![gif1](./images/cosmic.gif)
 
 потыкать тут: 
 https://shimmering-jelly-7b5d69.netlify.app/
